@@ -1,4 +1,4 @@
-# SnapBills - Smart Expense Management Aplic
+# SnapBills - Smart Expense Management App
 
 SnapBills is a **Flutter-based Android application** designed to simplify **expense tracking, payment splitting, and bill management**. Integrated with **Firebase**, the app enables users to add, categorize, and visualize expenses, manage subscriptions with renewal alerts, and track debts with contacts.
 
